@@ -7,5 +7,5 @@ First loop: Count each character.
 
 Second loop: Return the first character with a count of 1.
 
-If no such character is found, return 0 and print an appropriate message.
+If no such character is found, return 0 and print an appropriate message.....
 
